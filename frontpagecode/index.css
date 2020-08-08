@@ -1,0 +1,16 @@
+body{
+    background-image: url("../PICTURE'S/ruins.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+  }
+
+  h1, h2, h3, h4, h5, h6, p {
+    text-decoration: aqua;
+    font-family: 'Inknut Antiqua', serif;
+    
+}
+
+  .button{
+    background-color: black;
+  }  
